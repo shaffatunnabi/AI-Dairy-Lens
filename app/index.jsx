@@ -1,5 +1,3 @@
-
-
 import { Link } from "expo-router";
 import { StyleSheet, Text, View, Image, TouchableOpacity } from "react-native";
 import Logo from '../assets/img/dairy.png';

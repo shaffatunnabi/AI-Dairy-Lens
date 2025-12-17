@@ -15,7 +15,7 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 const Homepage = ({ navigation }) => {
   const router = useRouter();
 
-  const userName = "John Doe";
+  const userName = "Ali";
 
   const handleLogout = () => {
     router.replace('/');

@@ -9,13 +9,13 @@ export default function Layout() {
       }}
     >
       <Stack.Screen
-        name="homepage"
+        name="index"
         options={{
           headerShown: false,
         }}
       />
       <Stack.Screen
-        name="index"
+        name="homepage"
         options={{
           headerShown: false,
         }}
